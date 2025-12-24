@@ -51,7 +51,7 @@ Python
 - Professional visualization for academic use
 ---
 <p align="center">
-  <img src="" width="700"/>
+  <img src="https://github.com/Ashwini07-cmd/Education-budget-analysis/blob/27e8f5f93d23a011c70f4ec6b709706dd022cc19/top10_budget-project.csv.png" width="700"/>
 </p>
 📌 Why Only One Visualization?:
 - A single, well-designed visualization was chosen to:
